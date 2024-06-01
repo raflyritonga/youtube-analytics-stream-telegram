@@ -43,3 +43,5 @@ This project utilizes Python to fetch real-time YouTube metrics such as likes, v
     ```bash
     python youtube_analytics.py
     ```
+## Acknowledgements
+ - [Credit toYusuf Ganiyu](https://github.com/airscholar)
